@@ -1,15 +1,15 @@
 # Filamer Christian University, Inc. (FCU) - Customer & Student Satisfaction Analytics
 **Issuing Office:** MIS Office
 
-This repository contains the interactive satisfaction analytics monograph and dashboard generated from **38 operational survey datasets** comprising **12,679 total verified responses**.
+This repository contains the interactive satisfaction analytics monograph and dashboard generated from **42 operational survey datasets** comprising **13,016 total verified responses**.
 
 ## 📊 Dashboard Features
-- **University-wide Executive Overview:** Top-level metrics across all 38 evaluated colleges, offices, and facilities.
+- **University-wide Executive Overview:** Top-level metrics across all 42 evaluated colleges, offices, and facilities.
 - **ARTA / ISO Core 8 Dimensions:** Radar spider chart comparing Responsiveness, Reliability, Access & Facilities, Communication, Costs, Integrity, Assurance, and Outcome.
-- **Department CSAT Leaderboard:** Ranked satisfaction comparison (1–5 scale) across all 38 operational units.
+- **Department CSAT Leaderboard:** Ranked satisfaction comparison (1–5 scale) across all 42 operational units.
 - **Net Promoter Score (NPS) Analysis:** Stacked breakdown of Promoters (9–10), Passives (7–8), and Detractors (0–6).
-- **ISO 9001:2015 & ISO 21001:2025 Instrument Compliance Audit:** Full audit matrix (Table 2) evaluating Data Privacy Act consent, construct standardization, and template integrity across all 38 workbooks.
-- **Department Deep-Dive Mode:** Select any individual unit from categorized optgroups to inspect its rating distribution, demographic mix, radar benchmarks, specialized rubric evaluations (e.g. Library, High School, Nursing Symposium, Central Exam), and verbatim remarks.
+- **ISO 9001:2015 & ISO 21001:2025 Instrument Compliance Audit:** Full audit matrix (Table 2) evaluating Data Privacy Act consent, construct standardization, and template integrity across all 42 workbooks.
+- **Department Deep-Dive Mode:** Select any individual unit from categorized optgroups to inspect its rating distribution, demographic mix, radar benchmarks, specialized rubric evaluations (e.g. Health Unit, Library, High School, Nursing Symposium, Central Exam), and verbatim remarks.
 - **📸 1-Click Graph Download (PNG):** Dedicated download buttons on every graph that render high-resolution 2x watermarked PNG images (`Filamer Christian University, Inc. • MIS Office`).
 - **📥 CSV Data Export:** Export the consolidated cross-departmental benchmark dataset and audit matrix.
 
